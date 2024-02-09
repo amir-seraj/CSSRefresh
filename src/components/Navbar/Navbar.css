@@ -1,0 +1,7 @@
+nav{
+    width: 100vw;
+    height: 10vh;
+}
+ul{
+    display: flex;
+}
